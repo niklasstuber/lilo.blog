@@ -3,6 +3,7 @@ title = "Zoos, zwischen Tier- und Artenschutz  "
 date = "2023-04-22"
 draft = false
 pinned = false
+image = "dscn7653.jpg"
 description = "Die einen lieben sie, die anderen hassen sie: Zoos. Sind sie die moralisch verwerflichen Tiergefängnisse, für die sie manche halten?  Oder sind sie vielmehr die Arche Noah der Neuzeit und dabei noch ein Spass für Gross und Klein?"
 +++
 
